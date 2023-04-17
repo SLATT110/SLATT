@@ -7,7 +7,7 @@ fun main(){
     val employee1 = Employee("rey", "shms", 21, 800)
     val employee2 = Employee("Amir", "masoumi", 20 , 3500)
 
-    println(employee1) // Output: Linus Torvalds is 53
-    println(employee1.Wealth()) // Output: true
+    println(employee1) // Output: rey shms is 21
+    println(employee1.Wealth()) // Output: false
 
 }
